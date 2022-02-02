@@ -100,7 +100,7 @@ class _MyHomePageState extends State<MyHomePage> {
               'changed',
             ),
             Text(
-              '$_counter',
+              '$_counter ',
               style: Theme.of(context).textTheme.headline4,
             ),
           ],
